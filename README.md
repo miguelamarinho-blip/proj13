@@ -40,7 +40,7 @@ Para manter tudo organizado e com a lógica em dia, de forma resumida e direto a
 
 * **`ex01/`** - **Maior Idade Digitada:** Lê as idades em um laço de repetição, armazena no vetor e descobre qual foi a maior idade informada. Perfeito para descobrir quem no grupo já tem idade para dirigir sozinho pelas ruas vazias do subúrbio.
 * **`ex02/`** - **Triagem de Faturamento:** Realiza o cadastro de 5 funcionários armazenando nome, sexo e salário. Ao final, filtra e exibe de forma manual apenas as funcionárias mulheres que ganham acima de R$ 5.000,00 e que trabalham até tarde para pagar o próprio café expresso.
-* **`ex03/`** - **Extremos de Estatura:** Permite cadastrar de forma dinâmica nomes e alturas até que o usuário decida parar o loop. O algoritmo faz o mapeamento completo para encontrar quem tem a maior e a menor estatura, calculando a diferença entre quem parece uma boneca de porcelana com salto plataforma e quem quebrou corações olhando de cima.
+* **`ex03/`** - **Extremos de Estatura:** Permite cadastrar de forma dinâmica nomes e alturas até que o usuário decida parar o loop. O algoritmo faz o mapeamento completo para encontrar quem tem a maior e a menor estatura.
 
 ---
 
